@@ -32,7 +32,7 @@ pip install tensorflow
 本教程tensorflow版本：1.8.0
 
 # 启动notebook
-在deep-learning-101目录下，执行jupyter notebook
+在machine-learning-101目录下，执行jupyter notebook
 
 浏览器中输入http://localhost:8888
 

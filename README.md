@@ -1,3 +1,6 @@
+# 介绍
+本项目是根据cs231n和@李沐的gluon教程整理的学习笔记，属于个人学习的内容。如有侵权，麻烦联系我，及时删除侵权内容。
+
 # 环境安装
 集成安装环境Anaconda：https://www.anaconda.com/download/ (miniconda)
 
@@ -47,5 +50,5 @@ pip install tensorflow
 * utils：读取cifar10数据的库文件
 * datasets：cifar10数据目录
 
-# TroubleShooting
-miaoyiyun@baidu.com
+# Contact
+myotheone@foxmail.com
